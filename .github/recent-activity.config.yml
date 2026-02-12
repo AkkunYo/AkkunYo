@@ -6,9 +6,17 @@ settings:
   max_lines: 5
   readme_file: "./README.md"
   commit_msg: "⚡ 更新 README 最近动态"
-  disabled_events:
-    - "comments"  # 评论事件
-    - "push"      # 该 action 不支持 push 事件，需禁用
+  # 仅允许 action 支持的事件类型，避免遇到 push 时报错 "Event push is not supported"
+  whitelisted_events:
+    - "issues"
+    - "pr"
+    - "create_repo"
+    - "fork"
+    - "wiki"
+    - "member"
+    - "review"
+    - "release"
+    - "star"
   date:
     timezone: "Asia/Shanghai"
     format: "yyyy-m-d HH:MM"
