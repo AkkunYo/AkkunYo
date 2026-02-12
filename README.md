@@ -1,4 +1,4 @@
-# 👋 Hello，我是 [AkkunYo]
+# 👋 Hello，我是 AkkunYo
 
 <!-- 打字动画效果 - 修改 lines 参数为你想要的文字，用 + 连接 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDF&center=true&vCenter=true&width=600&lines=Android+开发者+%7C+全栈探索者+%7C+开源爱好者;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 
 |  |  |
 | --- | --- |
-| 📧 邮箱 | admin@zkyml.com |
+| 📧 邮箱 | [admin@zkyml.com](mailto:admin@zkyml.com) |
 | 🌐 博客 | [我的博客](https://www.zkyml.com) |
 | 💼 简历 | [在线简历](https://portfolio.zkyml.com) |
 | 🐦 微信 | AkkunYa |
@@ -22,23 +22,28 @@
 
 ## 📊 GitHub 统计
 
-<!-- 访问计数器 - 将 USERNAME 改为你的 GitHub 用户名 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AkkunYo&style=flat-square&color=blueviolet)
 
-<!-- 连续贡献天数 -->
+<img src="https://github-readme-stats.vercel.app/api?username=AkkunYo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9CDF&icon_color=2C9CDF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkunYo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9CDF" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkkunYo&theme=radical&hide_border=true&bg_color=0D1117&stroke=2C9CDF&ring=2C9CDF&fire=2C9CDF&currStreakLabel=2C9CDF" width="100%" />
 
- 
+<img src="https://github-profile-trophy.vercel.app/?username=AkkunYo&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
+
 ## 📈 贡献图（蛇形图）
 
-![Contribution](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
-
-<!-- 如需蛇形图，需在仓库中添加 .github/workflows 的 GitHub Action，详见下方说明 -->
+<!-- 蛇形图由 .github/workflows/snake.yml 自动生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkkunYo/AkkunYo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkkunYo/AkkunYo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/AkkunYo/AkkunYo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📝 最近动态
 
-<!-- 使用 GitHub Activity Readme Action 自动更新，需配置 workflow -->
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
 
 ---
 
