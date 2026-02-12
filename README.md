@@ -28,8 +28,12 @@
 <!-- 连续贡献 Streak：官方已迁移至 demolab.com，替代原 herokuapp -->
 <img src="https://streak-stats.demolab.com/?user=AkkunYo&theme=radical&hide_border=true&background=0D1117&stroke=2C9CDF&ring=2C9CDF&fire=2C9CDF&currStreakLabel=2C9CDF" width="100%" alt="GitHub Streak" />
 
-<!-- 随机开发笑话 - 来自 awesome-github-profile-readme 推荐 -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0d1117&textColor=2C9CDF" width="100%" alt="Jokes" />
+<!-- 状态徽章：纯 shields.io，稳定无第三方 API -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20something%20cool-2C9CDF?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Code-Kotlin%20%7C%20Java-7F52FF?style=flat-square" alt="Code" />
+  <img src="https://img.shields.io/badge/OS-Android%20%7C%20macOS-3DDC84?style=flat-square" alt="OS" />
+</p>
 
 ## 📈 贡献图（蛇形图）
 
