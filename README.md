@@ -1,13 +1,7 @@
+<!-- 打字动画效果 - 第1幕简介，第2幕致谢，第3幕标语；用 + 连接空格，; 分隔每一幕 -->
 <div align="center">
 
-### 🌟 感谢访问我的 GitHub 主页！
-
-</div>
-
-<!-- 打字动画效果 - 修改 lines 参数为你想要的文字，用 + 连接 -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDF&center=true&vCenter=true&width=600&lines=Android+开发者+%7C+全栈探索者+%7C+开源爱好者;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDF&center=true&vCenter=true&width=600&lines=Android+开发者+%7C+全栈探索者+%7C+开源爱好者;感谢访问我的+GitHub+主页！;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
 </div>
 
