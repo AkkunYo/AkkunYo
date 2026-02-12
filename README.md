@@ -43,6 +43,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper)<br>
+2. ⭐ Starred [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
+3. ⭐ Starred [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)<br>
+4. ⭐ Starred [minetsh/Imaging](https://github.com/minetsh/Imaging)<br>
+5. ⭐ Starred [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
