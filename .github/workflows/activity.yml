@@ -7,13 +7,8 @@ on:
   # 每 30 分钟自动运行一次
   schedule:
     - cron: "*/30 * * * *"
-  # 支持手动触发
+  # 支持手动触发（该 action 仅支持 schedule / workflow_dispatch，不支持 push 触发）
   workflow_dispatch:
-  # 每次推送到 main/master 时运行
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   build:
