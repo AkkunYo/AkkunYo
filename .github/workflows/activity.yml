@@ -1,5 +1,5 @@
 # 最近动态 - 将本文件复制到 AkkunYo/AkkunYo 仓库的 .github/workflows/ 目录
-# 参考: https://github.com/jamesgeorge007/github-activity-readme
+# 参考: https://github.com/Readme-Workflows/recent-activity (支持 RECENT_ACTIVITY:start/:end 格式)
 
 name: 更新最近动态
 
@@ -27,13 +27,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 更新 README 最近动态
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          # 可选：指定要显示的用户名，默认使用仓库所有者
-          GH_USERNAME: AkkunYo
-          # 可选：显示的最大行数，默认 5
-          MAX_LINES: 5
-          # 可选：更新的目标文件，默认 README.md
-          TARGET_FILE: README.md
