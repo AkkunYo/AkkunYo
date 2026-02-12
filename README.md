@@ -24,11 +24,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkkunYo&style=flat-square&color=blueviolet)
 
-<!-- 由 .github/workflows/stats.yml 定时拉取并存入仓库，避免公共 API 503 -->
+<!-- 使用 wsrv.nl 代理缓存，主站 503 时可能仍可显示 -->
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AkkunYo/AkkunYo/main/assets/github-stats.svg" width="100%" alt="GitHub Stats" /></td>
-    <td><img src="https://raw.githubusercontent.com/AkkunYo/AkkunYo/main/assets/github-top-langs.svg" width="100%" alt="Top Langs" /></td>
+    <td><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAkkunYo%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2C9CDF%26icon_color%3D2C9CDF" width="100%" alt="GitHub Stats" /></td>
+    <td><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DAkkunYo%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2C9CDF" width="100%" alt="Top Langs" /></td>
   </tr>
 </table>
 
