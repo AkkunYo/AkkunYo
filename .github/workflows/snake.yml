@@ -1,1 +1,40 @@
-1
+# 蛇形贡献图 - 将本文件复制到 AkkunYo/AkkunYo 仓库的 .github/workflows/ 目录
+# 参考: https://github.com/Platane/snk
+
+name: 生成蛇形贡献图
+
+on:
+  # 每 24 小时自动运行一次
+  schedule:
+    - cron: "0 0 * * *"
+  # 支持手动触发
+  workflow_dispatch:
+  # 每次推送到 main/master 时运行
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 生成 github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 推送蛇形图到 output 分支
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
