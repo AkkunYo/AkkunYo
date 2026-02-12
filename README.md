@@ -23,19 +23,13 @@
 ## 📊 GitHub 统计
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkkunYo&style=flat-square&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/AkkunYo?style=flat-square&label=Followers&color=2C9CDF)
 
-<!-- 使用 wsrv.nl 代理缓存，主站 503 时可能仍可显示 -->
-<table>
-  <tr>
-    <td><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAkkunYo%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2C9CDF%26icon_color%3D2C9CDF" width="100%" alt="GitHub Stats" /></td>
-    <td><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DAkkunYo%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D2C9CDF" width="100%" alt="Top Langs" /></td>
-  </tr>
-</table>
+<!-- 连续贡献 Streak：官方已迁移至 demolab.com，替代原 herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=AkkunYo&theme=radical&hide_border=true&background=0D1117&stroke=2C9CDF&ring=2C9CDF&fire=2C9CDF&currStreakLabel=2C9CDF" width="100%" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkkunYo&theme=radical&hide_border=true&bg_color=0D1117&stroke=2C9CDF&ring=2C9CDF&fire=2C9CDF&currStreakLabel=2C9CDF" width="100%" />
-
-<!-- 使用备用域名以减轻主站压力，主站 github-profile-trophy.vercel.app 易 503 时可换回 -->
-<img src="https://github-profile-trophy-winning.vercel.app/?username=AkkunYo&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
+<!-- 随机开发笑话 - 来自 awesome-github-profile-readme 推荐 -->
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0d1117&textColor=2C9CDF" width="100%" alt="Jokes" />
 
 ## 📈 贡献图（蛇形图）
 
