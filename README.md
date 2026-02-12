@@ -24,12 +24,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkkunYo&style=flat-square&color=blueviolet)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkkunYo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9CDF&icon_color=2C9CDF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkunYo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9CDF" width="48%" />
+<!-- 由 .github/workflows/stats.yml 定时拉取并存入仓库，避免公共 API 503 -->
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AkkunYo/AkkunYo/main/assets/github-stats.svg" width="100%" alt="GitHub Stats" /></td>
+    <td><img src="https://raw.githubusercontent.com/AkkunYo/AkkunYo/main/assets/github-top-langs.svg" width="100%" alt="Top Langs" /></td>
+  </tr>
+</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkkunYo&theme=radical&hide_border=true&bg_color=0D1117&stroke=2C9CDF&ring=2C9CDF&fire=2C9CDF&currStreakLabel=2C9CDF" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkkunYo&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
+<!-- 使用备用域名以减轻主站压力，主站 github-profile-trophy.vercel.app 易 503 时可换回 -->
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AkkunYo&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
 
 ## 📈 贡献图（蛇形图）
 
