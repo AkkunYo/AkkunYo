@@ -1,24 +1,13 @@
-# 👋 Hello，我是 AkkunYo
+<div align="center">
+
+### 🌟 感谢访问我的 GitHub 主页！
+
+**一起探索代码的无限可能 ✨**
+
+</div>
 
 <!-- 打字动画效果 - 修改 lines 参数为你想要的文字，用 + 连接 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDF&center=true&vCenter=true&width=600&lines=Android+开发者+%7C+全栈探索者+%7C+开源爱好者;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
-
-## 📫 联系方式
-
-|  |  |
-| --- | --- |
-| 📧 邮箱 | [admin@zkyml.com](mailto:admin@zkyml.com) |
-| 🌐 博客 | [我的博客](https://www.zkyml.com) |
-| 💼 简历 | [在线简历](https://portfolio.zkyml.com) |
-| 🐦 微信 | AkkunYa |
-
-## 🛠️ 技术栈
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## 📊 GitHub 统计
 
@@ -34,6 +23,14 @@
   <img src="https://img.shields.io/badge/Code-Kotlin%20%7C%20Java-7F52FF?style=flat-square" alt="Code" />
   <img src="https://img.shields.io/badge/OS-Android%20%7C%20macOS-3DDC84?style=flat-square" alt="OS" />
 </p>
+
+## 🛠️ 技术栈
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## 📈 贡献图（蛇形图）
 
@@ -54,12 +51,8 @@
 5. ⭐ Starred [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android)<br>
 <!--RECENT_ACTIVITY:end-->
 
----
+## 📫 联系方式
 
-<div align="center">
-
-### 🌟 感谢访问我的 GitHub 主页！
-
-**一起探索代码的无限可能 ✨**
-
-</div>
+| 📧 邮箱 | 🌐 博客 | 💼 简历 | 🐦 微信 |
+| :---: | :---: | :---: | :---: |
+| [admin@zkyml.com](mailto:admin@zkyml.com) | [我的博客](https://www.zkyml.com) | [在线简历](https://portfolio.zkyml.com) | AkkunYa |
