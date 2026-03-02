@@ -40,11 +40,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
-2. ⭐ Starred [getActivity/AndroidCmdTools](https://github.com/getActivity/AndroidCmdTools)<br>
-3. ⭐ Starred [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)<br>
-4. ⭐ Starred [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper)<br>
-5. ⭐ Starred [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
+1. ⭐ Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)<br>
+2. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+3. ⭐ Starred [getActivity/AndroidCmdTools](https://github.com/getActivity/AndroidCmdTools)<br>
+4. ⭐ Starred [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)<br>
+5. ⭐ Starred [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
