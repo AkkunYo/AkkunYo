@@ -107,13 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⭐ Starred [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper)<br>
-2. ⭐ Starred [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
-3. ⭐ Starred [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)<br>
-4. ⭐ Starred [minetsh/Imaging](https://github.com/minetsh/Imaging)<br>
-5. ⭐ Starred [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android)<br>
-
+1. ⭐ Starred [iwgang/CountdownView](https://github.com/iwgang/CountdownView)<br>
+2. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
+3. ⭐ Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)<br>
+4. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+5. ⭐ Starred [getActivity/AndroidCmdTools](https://github.com/getActivity/AndroidCmdTools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
