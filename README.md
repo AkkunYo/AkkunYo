@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [smanx/free-api](https://github.com/smanx/free-api)<br>
-2. ⭐ Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)<br>
-3. ⭐ Starred [iwgang/CountdownView](https://github.com/iwgang/CountdownView)<br>
-4. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
-5. ⭐ Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)<br>
+1. ⭐ Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)<br>
+2. ⭐ Starred [smanx/free-api](https://github.com/smanx/free-api)<br>
+3. ⭐ Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)<br>
+4. ⭐ Starred [iwgang/CountdownView](https://github.com/iwgang/CountdownView)<br>
+5. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
