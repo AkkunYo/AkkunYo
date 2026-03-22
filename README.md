@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)<br>
-2. ⭐ Starred [smanx/free-api](https://github.com/smanx/free-api)<br>
-3. ⭐ Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)<br>
-4. ⭐ Starred [iwgang/CountdownView](https://github.com/iwgang/CountdownView)<br>
-5. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
+1. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+2. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+3. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
+4. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)<br>
+5. ⭐ Starred [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
