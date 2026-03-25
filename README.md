@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
-2. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-3. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
-4. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-5. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)<br>
+1. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
+2. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
+3. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+4. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
