@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
-2. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
-3. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
-4. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-5. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+1. ⭐ Starred [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)<br>
+2. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
+3. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
+4. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
+5. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
