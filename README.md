@@ -109,7 +109,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
 2. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
-3. ⭐ Starred [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)<br>
+3. ⭐ Starred [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)<br>
 4. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
 5. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
 <!--RECENT_ACTIVITY:end-->
