@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
-2. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
-3. ⭐ Starred [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)<br>
-4. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
-5. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
+1. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
+2. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
+3. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
+4. ⭐ Starred [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)<br>
+5. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
