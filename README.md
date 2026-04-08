@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-2. ⭐ Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
-3. ⭐ Starred [songquanpeng/one-api](https://github.com/songquanpeng/one-api)<br>
-4. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
-5. ⭐ Starred [7836246/cursor2api](https://github.com/7836246/cursor2api)<br>
+1. ⭐ Starred [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)<br>
+2. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+3. ⭐ Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+4. ⭐ Starred [songquanpeng/one-api](https://github.com/songquanpeng/one-api)<br>
+5. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
