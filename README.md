@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool)<br>
-2. ⭐ Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)<br>
-3. ⭐ Starred [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)<br>
-4. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-5. ⭐ Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+1. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+2. ⭐ Starred [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool)<br>
+3. ⭐ Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)<br>
+4. ⭐ Starred [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)<br>
+5. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
