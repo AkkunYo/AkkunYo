@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [winston779/flyingbird](https://github.com/winston779/flyingbird)<br>
-2. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-3. ⭐ Starred [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool)<br>
-4. ⭐ Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)<br>
-5. ⭐ Starred [foxhui/WebAI2API](https://github.com/foxhui/WebAI2API)<br>
+1. ⭐ Starred [hamen/compose_skill](https://github.com/hamen/compose_skill)<br>
+2. ⭐ Starred [android/skills](https://github.com/android/skills)<br>
+3. ⭐ Starred [winston779/flyingbird](https://github.com/winston779/flyingbird)<br>
+4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+5. ⭐ Starred [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
