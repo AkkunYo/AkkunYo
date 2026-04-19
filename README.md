@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AkkunYo/new-api](https://github.com/AkkunYo/new-api) from [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
-2. ⭐ Starred [hamen/compose_skill](https://github.com/hamen/compose_skill)<br>
-3. ⭐ Starred [android/skills](https://github.com/android/skills)<br>
-4. ⭐ Starred [winston779/flyingbird](https://github.com/winston779/flyingbird)<br>
-5. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+1. ⭐ Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)<br>
+2. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+3. 🔱 Forked [AkkunYo/new-api](https://github.com/AkkunYo/new-api) from [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+4. ⭐ Starred [hamen/compose_skill](https://github.com/hamen/compose_skill)<br>
+5. ⭐ Starred [android/skills](https://github.com/android/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
