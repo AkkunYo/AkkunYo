@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)<br>
-2. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
-3. 🔱 Forked [AkkunYo/new-api](https://github.com/AkkunYo/new-api) from [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
-4. ⭐ Starred [hamen/compose_skill](https://github.com/hamen/compose_skill)<br>
-5. ⭐ Starred [android/skills](https://github.com/android/skills)<br>
+1. ⭐ Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)<br>
+2. ⭐ Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)<br>
+3. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+4. 🔱 Forked [AkkunYo/new-api](https://github.com/AkkunYo/new-api) from [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+5. ⭐ Starred [hamen/compose_skill](https://github.com/hamen/compose_skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
