@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)<br>
-2. ⭐ Starred [fengmengmengji/ccg-workflow](https://github.com/fengmengmengji/ccg-workflow)<br>
-3. ⭐ Starred [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API)<br>
-4. ⭐ Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)<br>
-5. ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)<br>
+1. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
+2. ⭐ Starred [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)<br>
+3. ⭐ Starred [fengmengmengji/ccg-workflow](https://github.com/fengmengmengji/ccg-workflow)<br>
+4. ⭐ Starred [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API)<br>
+5. ⭐ Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
