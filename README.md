@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
-2. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
-3. ⭐ Starred [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)<br>
-4. ⭐ Starred [fengmengmengji/ccg-workflow](https://github.com/fengmengmengji/ccg-workflow)<br>
-5. ⭐ Starred [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API)<br>
+1. ⭐ Starred [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)<br>
+2. ⭐ Starred [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV)<br>
+3. ⭐ Starred [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)<br>
+4. ⭐ Starred [free18/v2ray](https://github.com/free18/v2ray)<br>
+5. ⭐ Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
