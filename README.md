@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
-2. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
-3. ⭐ Starred [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)<br>
-4. ⭐ Starred [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV)<br>
-5. ⭐ Starred [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)<br>
+1. ⭐ Starred [laobamac/OCLP-Mod](https://github.com/laobamac/OCLP-Mod)<br>
+2. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
+3. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
+4. ⭐ Starred [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)<br>
+5. ⭐ Starred [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
