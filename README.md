@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v5.1-ak](https://github.com/AkkunYo/xbox4magisk/releases/tag/v5.1-ak) in [AkkunYo/xbox4magisk](https://github.com/AkkunYo/xbox4magisk)<br>
-2. ⭐ Starred [laobamac/OCLP-Mod](https://github.com/laobamac/OCLP-Mod)<br>
-3. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
-4. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
-5. ⭐ Starred [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)<br>
+1. ⭐ Starred [nodesfree/nodesfree.github.io](https://github.com/nodesfree/nodesfree.github.io)<br>
+2. ⭐ Starred [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls)<br>
+3. ⭐ Starred [crashgfw/free-airport-nodes](https://github.com/crashgfw/free-airport-nodes)<br>
+4. ⭐ Starred [Barabama/FreeNodes](https://github.com/Barabama/FreeNodes)<br>
+5. ⭐ Starred [free-nodes/clashfree](https://github.com/free-nodes/clashfree)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
