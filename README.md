@@ -107,11 +107,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nodesfree/nodesfree.github.io](https://github.com/nodesfree/nodesfree.github.io)<br>
-2. ⭐ Starred [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls)<br>
-3. ⭐ Starred [crashgfw/free-airport-nodes](https://github.com/crashgfw/free-airport-nodes)<br>
-4. ⭐ Starred [Barabama/FreeNodes](https://github.com/Barabama/FreeNodes)<br>
-5. ⭐ Starred [free-nodes/clashfree](https://github.com/free-nodes/clashfree)<br>
+1. ⭐ Starred [free-nodes/v2rayfree](https://github.com/free-nodes/v2rayfree)<br>
+2. ⭐ Starred [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API)<br>
+3. ⭐ Starred [nodesfree/nodesfree.github.io](https://github.com/nodesfree/nodesfree.github.io)<br>
+4. ⭐ Starred [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls)<br>
+5. ⭐ Starred [crashgfw/free-airport-nodes](https://github.com/crashgfw/free-airport-nodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
