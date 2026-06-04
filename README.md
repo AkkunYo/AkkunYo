@@ -98,13 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⭐ Starred [GoogleChrome/android-browser-helper](https://github.com/GoogleChrome/android-browser-helper)<br>
-2. ⭐ Starred [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
-3. ⭐ Starred [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)<br>
-4. ⭐ Starred [minetsh/Imaging](https://github.com/minetsh/Imaging)<br>
-5. ⭐ Starred [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android)<br>
-
+1. ⭐ Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)<br>
+2. ⭐ Starred [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher)<br>
+3. ⭐ Starred [baoweise-bot/aimili-vpngate](https://github.com/baoweise-bot/aimili-vpngate)<br>
+4. ⭐ Starred [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)<br>
+5. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
