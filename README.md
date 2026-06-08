@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
-2. ⭐ Starred [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)<br>
-3. ⭐ Starred [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash)<br>
-4. ⭐ Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)<br>
-5. ⭐ Starred [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher)<br>
+1. ⭐ Starred [qianqianhhh2/jianyin](https://github.com/qianqianhhh2/jianyin)<br>
+2. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
+3. ⭐ Starred [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)<br>
+4. ⭐ Starred [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash)<br>
+5. ⭐ Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
