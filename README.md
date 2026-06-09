@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qianqianhhh2/jianyin](https://github.com/qianqianhhh2/jianyin)<br>
-2. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
-3. ⭐ Starred [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)<br>
-4. ⭐ Starred [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash)<br>
-5. ⭐ Starred [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)<br>
+1. 🔱 Forked [AkkunYo/CLIProxyAPI](https://github.com/AkkunYo/CLIProxyAPI) from [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+2. ⭐ Starred [qianqianhhh2/jianyin](https://github.com/qianqianhhh2/jianyin)<br>
+3. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
+4. ⭐ Starred [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)<br>
+5. ⭐ Starred [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
