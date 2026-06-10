@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jorgejie/ai_scaffold](https://github.com/Jorgejie/ai_scaffold)<br>
-2. 🔱 Forked [AkkunYo/CLIProxyAPI](https://github.com/AkkunYo/CLIProxyAPI) from [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
-3. ⭐ Starred [qianqianhhh2/jianyin](https://github.com/qianqianhhh2/jianyin)<br>
-4. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
-5. ⭐ Starred [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest)<br>
+1. ⭐ Starred [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)<br>
+2. ⭐ Starred [Jorgejie/ai_scaffold](https://github.com/Jorgejie/ai_scaffold)<br>
+3. 🔱 Forked [AkkunYo/CLIProxyAPI](https://github.com/AkkunYo/CLIProxyAPI) from [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+4. ⭐ Starred [qianqianhhh2/jianyin](https://github.com/qianqianhhh2/jianyin)<br>
+5. ⭐ Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
