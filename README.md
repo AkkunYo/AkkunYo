@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [duanzhenyu/grok2api](https://github.com/duanzhenyu/grok2api)<br>
-2. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
-3. ⭐ Starred [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)<br>
-4. ⭐ Starred [Jorgejie/ai_scaffold](https://github.com/Jorgejie/ai_scaffold)<br>
-5. 🔱 Forked [AkkunYo/CLIProxyAPI](https://github.com/AkkunYo/CLIProxyAPI) from [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+1. ⭐ Starred [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)<br>
+2. ⭐ Starred [duanzhenyu/grok2api](https://github.com/duanzhenyu/grok2api)<br>
+3. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
+4. ⭐ Starred [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)<br>
+5. ⭐ Starred [Jorgejie/ai_scaffold](https://github.com/Jorgejie/ai_scaffold)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
