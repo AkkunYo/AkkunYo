@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
-2. ⭐ Starred [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)<br>
-3. ⭐ Starred [duanzhenyu/grok2api](https://github.com/duanzhenyu/grok2api)<br>
-4. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
-5. ⭐ Starred [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)<br>
+1. ⭐ Starred [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli)<br>
+2. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
+3. ⭐ Starred [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)<br>
+4. ⭐ Starred [duanzhenyu/grok2api](https://github.com/duanzhenyu/grok2api)<br>
+5. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
