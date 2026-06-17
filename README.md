@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Alvin9999-newpac/Sing-Box-Plus](https://github.com/Alvin9999-newpac/Sing-Box-Plus)<br>
-2. ⭐ Starred [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli)<br>
-3. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
-4. ⭐ Starred [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)<br>
-5. ⭐ Starred [duanzhenyu/grok2api](https://github.com/duanzhenyu/grok2api)<br>
+1. ⭐ Starred [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)<br>
+2. ⭐ Starred [webdown-a/shopify-editions-3d-site](https://github.com/webdown-a/shopify-editions-3d-site)<br>
+3. ⭐ Starred [Alvin9999-newpac/Sing-Box-Plus](https://github.com/Alvin9999-newpac/Sing-Box-Plus)<br>
+4. ⭐ Starred [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli)<br>
+5. ⭐ Starred [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
