@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp)<br>
-2. ⭐ Starred [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)<br>
-3. ⭐ Starred [webdown-a/shopify-editions-3d-site](https://github.com/webdown-a/shopify-editions-3d-site)<br>
-4. ⭐ Starred [Alvin9999-newpac/Sing-Box-Plus](https://github.com/Alvin9999-newpac/Sing-Box-Plus)<br>
-5. ⭐ Starred [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli)<br>
+1. ⭐ Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
+2. ⭐ Starred [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp)<br>
+3. ⭐ Starred [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)<br>
+4. ⭐ Starred [webdown-a/shopify-editions-3d-site](https://github.com/webdown-a/shopify-editions-3d-site)<br>
+5. ⭐ Starred [Alvin9999-newpac/Sing-Box-Plus](https://github.com/Alvin9999-newpac/Sing-Box-Plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
