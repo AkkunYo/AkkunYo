@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4178](https://github.com/router-for-me/CLIProxyAPI/issues/4178) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
-2. ⭐ Starred [qinshihu/itops-agent-platform](https://github.com/qinshihu/itops-agent-platform)<br>
-3. ⭐ Starred [Chevey339/kelivo](https://github.com/Chevey339/kelivo)<br>
-4. ⭐ Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
-5. ⭐ Starred [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp)<br>
+1. ⭐ Starred [huey1in/OurStory](https://github.com/huey1in/OurStory)<br>
+2. ❗️ Opened issue [#4178](https://github.com/router-for-me/CLIProxyAPI/issues/4178) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+3. ⭐ Starred [qinshihu/itops-agent-platform](https://github.com/qinshihu/itops-agent-platform)<br>
+4. ⭐ Starred [Chevey339/kelivo](https://github.com/Chevey339/kelivo)<br>
+5. ⭐ Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
