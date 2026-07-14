@@ -98,7 +98,7 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huey1in/OurStory](https://github.com/huey1in/OurStory)<br>
+1. ⭐ Starred [huey1in/ourstory](https://github.com/huey1in/ourstory)<br>
 2. ❗️ Opened issue [#4178](https://github.com/router-for-me/CLIProxyAPI/issues/4178) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
 3. ⭐ Starred [qinshihu/itops-agent-platform](https://github.com/qinshihu/itops-agent-platform)<br>
 4. ⭐ Starred [Chevey339/kelivo](https://github.com/Chevey339/kelivo)<br>
