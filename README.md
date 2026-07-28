@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [233boy/sing-box](https://github.com/233boy/sing-box)<br>
-2. ⭐ Starred [ssfun/CLIProxyAPI-Pro](https://github.com/ssfun/CLIProxyAPI-Pro)<br>
-3. ⭐ Starred [xream/http-meta](https://github.com/xream/http-meta)<br>
-4. ⭐ Starred [huey1in/ourstory](https://github.com/huey1in/ourstory)<br>
-5. ❗️ Opened issue [#4178](https://github.com/router-for-me/CLIProxyAPI/issues/4178) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+1. ⭐ Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)<br>
+2. ⭐ Starred [233boy/sing-box](https://github.com/233boy/sing-box)<br>
+3. ⭐ Starred [ssfun/CLIProxyAPI-Pro](https://github.com/ssfun/CLIProxyAPI-Pro)<br>
+4. ⭐ Starred [xream/http-meta](https://github.com/xream/http-meta)<br>
+5. ⭐ Starred [huey1in/ourstory](https://github.com/huey1in/ourstory)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
