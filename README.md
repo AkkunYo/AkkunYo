@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bleach1991/lede](https://github.com/bleach1991/lede)<br>
-2. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-3. ⭐ Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)<br>
-4. ⭐ Starred [233boy/sing-box](https://github.com/233boy/sing-box)<br>
-5. ⭐ Starred [ssfun/CLIProxyAPI-Pro](https://github.com/ssfun/CLIProxyAPI-Pro)<br>
+1. 🔱 Forked [AkkunYo/cursor-agent-api-proxy](https://github.com/AkkunYo/cursor-agent-api-proxy) from [tageecc/cursor-agent-api-proxy](https://github.com/tageecc/cursor-agent-api-proxy)<br>
+2. ⭐ Starred [bleach1991/lede](https://github.com/bleach1991/lede)<br>
+3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+4. ⭐ Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)<br>
+5. ⭐ Starred [233boy/sing-box](https://github.com/233boy/sing-box)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
