@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [byJoey/fanout](https://github.com/byJoey/fanout)<br>
-2. ⭐ Starred [anyrobert/cursor-api-proxy](https://github.com/anyrobert/cursor-api-proxy)<br>
-3. ⭐ Starred [bleach1991/lede](https://github.com/bleach1991/lede)<br>
-4. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-5. ⭐ Starred [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)<br>
+1. ⭐ Starred [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)<br>
+2. ⭐ Starred [byJoey/fanout](https://github.com/byJoey/fanout)<br>
+3. ⭐ Starred [anyrobert/cursor-api-proxy](https://github.com/anyrobert/cursor-api-proxy)<br>
+4. ⭐ Starred [bleach1991/lede](https://github.com/bleach1991/lede)<br>
+5. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
