@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sbwml/openwrt_helloworld](https://github.com/sbwml/openwrt_helloworld)<br>
-2. 💪 Opened PR [#2](undefined) in [AkkunYo/TokenFlow](https://github.com/AkkunYo/TokenFlow)<br>
-3. 💪 Opened PR [#1](undefined) in [AkkunYo/TokenFlow](https://github.com/AkkunYo/TokenFlow)<br>
-4. ⭐ Starred [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)<br>
-5. ⭐ Starred [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)<br>
+1. ⭐ Starred [MasterAlanLab/free-proxy](https://github.com/MasterAlanLab/free-proxy)<br>
+2. ⭐ Starred [afeinet/sni-test](https://github.com/afeinet/sni-test)<br>
+3. ⭐ Starred [sbwml/openwrt_helloworld](https://github.com/sbwml/openwrt_helloworld)<br>
+4. 💪 Opened PR [#2](undefined) in [AkkunYo/TokenFlow](https://github.com/AkkunYo/TokenFlow)<br>
+5. 💪 Opened PR [#1](undefined) in [AkkunYo/TokenFlow](https://github.com/AkkunYo/TokenFlow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
