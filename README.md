@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [k1ngbanana/aipocket](https://github.com/k1ngbanana/aipocket)<br>
-2. ⭐ Starred [MasterAlanLab/free-proxy](https://github.com/MasterAlanLab/free-proxy)<br>
-3. ⭐ Starred [afeinet/sni-test](https://github.com/afeinet/sni-test)<br>
-4. ⭐ Starred [sbwml/openwrt_helloworld](https://github.com/sbwml/openwrt_helloworld)<br>
-5. 💪 Opened PR [#2](undefined) in [AkkunYo/TokenFlow](https://github.com/AkkunYo/TokenFlow)<br>
+1. ⭐ Starred [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat)<br>
+2. ⭐ Starred [k1ngbanana/aipocket](https://github.com/k1ngbanana/aipocket)<br>
+3. ⭐ Starred [MasterAlanLab/free-proxy](https://github.com/MasterAlanLab/free-proxy)<br>
+4. ⭐ Starred [afeinet/sni-test](https://github.com/afeinet/sni-test)<br>
+5. ⭐ Starred [sbwml/openwrt_helloworld](https://github.com/sbwml/openwrt_helloworld)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
