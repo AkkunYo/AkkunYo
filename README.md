@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)<br>
-2. ⭐ Starred [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat)<br>
-3. ⭐ Starred [k1ngbanana/aipocket](https://github.com/k1ngbanana/aipocket)<br>
-4. ⭐ Starred [MasterAlanLab/free-proxy](https://github.com/MasterAlanLab/free-proxy)<br>
-5. ⭐ Starred [afeinet/sni-test](https://github.com/afeinet/sni-test)<br>
+1. ⭐ Starred [hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build](https://github.com/hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build)<br>
+2. ⭐ Starred [zc360/Xiaomi-ax3000t-openwrt](https://github.com/zc360/Xiaomi-ax3000t-openwrt)<br>
+3. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)<br>
+4. ⭐ Starred [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat)<br>
+5. ⭐ Starred [k1ngbanana/aipocket](https://github.com/k1ngbanana/aipocket)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
