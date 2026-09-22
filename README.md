@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
-2. ⭐ Starred [alfredxw/denova](https://github.com/alfredxw/denova)<br>
-3. ⭐ Starred [hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build](https://github.com/hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build)<br>
-4. ⭐ Starred [zc360/Xiaomi-ax3000t-openwrt](https://github.com/zc360/Xiaomi-ax3000t-openwrt)<br>
-5. ⭐ Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)<br>
+1. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
+2. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
+3. ⭐ Starred [alfredxw/denova](https://github.com/alfredxw/denova)<br>
+4. ⭐ Starred [hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build](https://github.com/hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build)<br>
+5. ⭐ Starred [zc360/Xiaomi-ax3000t-openwrt](https://github.com/zc360/Xiaomi-ax3000t-openwrt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
