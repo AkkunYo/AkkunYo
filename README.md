@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-2. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
-3. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
-4. ⭐ Starred [alfredxw/denova](https://github.com/alfredxw/denova)<br>
-5. ⭐ Starred [hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build](https://github.com/hkint/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build)<br>
+1. ⭐ Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)<br>
+2. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
+3. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
+4. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
+5. ⭐ Starred [alfredxw/denova](https://github.com/alfredxw/denova)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
