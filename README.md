@@ -102,7 +102,6 @@
 2. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
 3. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
 4. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
-5. ⭐ Starred [alfredxw/denova](https://github.com/alfredxw/denova)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
