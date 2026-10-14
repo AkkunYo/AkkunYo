@@ -98,10 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)<br>
-2. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-3. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
-4. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
+1. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
+2. ⭐ Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)<br>
+3. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
+4. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
+5. ⭐ Starred [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
