@@ -101,7 +101,6 @@
 1. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
 2. ⭐ Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)<br>
 3. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-4. ⭐ Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
