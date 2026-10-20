@@ -98,8 +98,8 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
-2. ⭐ Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)<br>
+1. ⭐ Starred [nguyenha935/kiro-cpa-plugin](https://github.com/nguyenha935/kiro-cpa-plugin)<br>
+2. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
