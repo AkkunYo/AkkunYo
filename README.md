@@ -98,9 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs)<br>
-2. ⭐ Starred [nguyenha935/kiro-cpa-plugin](https://github.com/nguyenha935/kiro-cpa-plugin)<br>
-3. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
+1. ⭐ Starred [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)<br>
+2. 🔱 Forked [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus) from [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
+3. ⭐ Starred [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs)<br>
+4. ⭐ Starred [nguyenha935/kiro-cpa-plugin](https://github.com/nguyenha935/kiro-cpa-plugin)<br>
+5. ⭐ Starred [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
