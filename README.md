@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.14.8-cq.2](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.8-cq.2) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-2. ✌️ Released [v1.14.8-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.8-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-3. ⭐ Starred [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)<br>
-4. 🔱 Forked [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus) from [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
-5. ⭐ Starred [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs)<br>
+1. ✌️ Released [v1.14.8-cq.3](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.8-cq.3) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+2. ✌️ Released [v1.14.8-cq.2](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.8-cq.2) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+3. ✌️ Released [v1.14.8-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.8-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+4. ⭐ Starred [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)<br>
+5. 🔱 Forked [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus) from [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
