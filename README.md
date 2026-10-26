@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#287](undefined) in [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
-2. 🔱 Forked [AkkunYo/CLIProxyAPI-Plugins-Store](https://github.com/AkkunYo/CLIProxyAPI-Plugins-Store) from [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
-3. ✌️ Released [v1.14.9-cq.4](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.4) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-4. ✌️ Released [v1.14.9-cq.3](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.3) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-5. ✌️ Released [v1.14.9-cq.2](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.2) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+1. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
+2. 💪 Opened PR [#287](undefined) in [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
+3. 🔱 Forked [AkkunYo/CLIProxyAPI-Plugins-Store](https://github.com/AkkunYo/CLIProxyAPI-Plugins-Store) from [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
+4. ✌️ Released [v1.14.9-cq.4](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.4) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+5. ✌️ Released [v1.14.9-cq.3](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.3) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
