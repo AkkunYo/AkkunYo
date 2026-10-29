@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
-2. 💪 Opened PR [#287](undefined) in [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
-3. 🔱 Forked [AkkunYo/CLIProxyAPI-Plugins-Store](https://github.com/AkkunYo/CLIProxyAPI-Plugins-Store) from [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
-4. ✌️ Released [v1.14.9-cq.4](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.4) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-5. ✌️ Released [v1.14.9-cq.3](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.9-cq.3) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+1. ⭐ Starred [cita-777/metapi](https://github.com/cita-777/metapi)<br>
+2. ⭐ Starred [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)<br>
+3. ⭐ Starred [Jasonliu-0/Newapi-checkin](https://github.com/Jasonliu-0/Newapi-checkin)<br>
+4. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
+5. 💪 Opened PR [#287](undefined) in [router-for-me/CLIProxyAPI-Plugins-Store](https://github.com/router-for-me/CLIProxyAPI-Plugins-Store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
