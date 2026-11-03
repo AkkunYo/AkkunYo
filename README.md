@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.14.10-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.10-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-2. ⭐ Starred [cita-777/metapi](https://github.com/cita-777/metapi)<br>
-3. ⭐ Starred [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)<br>
-4. ⭐ Starred [Jasonliu-0/Newapi-checkin](https://github.com/Jasonliu-0/Newapi-checkin)<br>
-5. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
+1. ⭐ Starred [hezhanleiok/xehn](https://github.com/hezhanleiok/xehn)<br>
+2. ✌️ Released [v1.14.10-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.10-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
+3. ⭐ Starred [cita-777/metapi](https://github.com/cita-777/metapi)<br>
+4. ⭐ Starred [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)<br>
+5. ⭐ Starred [Jasonliu-0/Newapi-checkin](https://github.com/Jasonliu-0/Newapi-checkin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
