@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)<br>
-2. ⭐ Starred [ch6vip/fqapp](https://github.com/ch6vip/fqapp)<br>
-3. ⭐ Starred [hezhanleiok/xehn](https://github.com/hezhanleiok/xehn)<br>
-4. ✌️ Released [v1.14.10-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.10-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
-5. ⭐ Starred [cita-777/metapi](https://github.com/cita-777/metapi)<br>
+1. ⭐ Starred [Minireel/HGhub](https://github.com/Minireel/HGhub)<br>
+2. ⭐ Starred [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)<br>
+3. ⭐ Starred [ch6vip/fqapp](https://github.com/ch6vip/fqapp)<br>
+4. ⭐ Starred [hezhanleiok/xehn](https://github.com/hezhanleiok/xehn)<br>
+5. ✌️ Released [v1.14.10-cq.1](https://github.com/AkkunYo/CPA-Manager-Plus/releases/tag/v1.14.10-cq.1) in [AkkunYo/CPA-Manager-Plus](https://github.com/AkkunYo/CPA-Manager-Plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
