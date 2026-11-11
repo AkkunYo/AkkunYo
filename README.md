@@ -102,7 +102,7 @@
 2. ⭐ Starred [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills)<br>
 3. ⭐ Starred [Minireel/HGhub](https://github.com/Minireel/HGhub)<br>
 4. ⭐ Starred [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)<br>
-5. ⭐ Starred [ch6vip/fqapp](https://github.com/ch6vip/fqapp)<br>
+5. ⭐ Starred [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
