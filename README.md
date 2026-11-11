@@ -98,11 +98,11 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)<br>
-2. ⭐ Starred [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills)<br>
-3. ⭐ Starred [Minireel/HGhub](https://github.com/Minireel/HGhub)<br>
-4. ⭐ Starred [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)<br>
-5. ⭐ Starred [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)<br>
+1. ⭐ Starred [wjsqqj/aquan-duanju](https://github.com/wjsqqj/aquan-duanju)<br>
+2. ⭐ Starred [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)<br>
+3. ⭐ Starred [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills)<br>
+4. ⭐ Starred [Minireel/HGhub](https://github.com/Minireel/HGhub)<br>
+5. ⭐ Starred [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 联系方式
