@@ -98,7 +98,7 @@
 ## 📝 最近动态
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AkkunYo/HGhub](https://github.com/AkkunYo/HGhub) from [zxsos/HGhub](https://github.com/zxsos/HGhub)<br>
+1. 🔱 Forked [AkkunYo/HGhub](https://github.com/AkkunYo/HGhub) from [zxsos/HGhubX](https://github.com/zxsos/HGhubX)<br>
 2. ⭐ Starred [wjsqqj/aquan-duanju](https://github.com/wjsqqj/aquan-duanju)<br>
 3. ⭐ Starred [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)<br>
 4. ⭐ Starred [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills)<br>
